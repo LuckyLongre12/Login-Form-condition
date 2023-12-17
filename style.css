@@ -1,0 +1,42 @@
+
+    form{
+        width: 40rem;
+        height: 75rem;
+        background-color: skyblue;
+        margin-left: 10rem; 
+        border-radius: 20px;      
+    }
+    h1{
+        font-size: 4rem;
+        text-align: center;
+        color: black;
+    }
+    button{
+        font-size: 3rem;
+        background: blue;
+        color: white;
+        border-radius: 40px;
+        width: 15rem;
+        float: right;
+        margin-right: 2rem;
+        margin-top: 3rem;
+    }
+    input{
+        width: 30rem;
+        height: auto;
+        text-align: center;
+        font-size: 4rem;
+        margin-left: 5rem;
+        border-radius: 40px;
+        outline: none;
+        transition: 0.3s;
+    }
+    #info{
+        background-color: red;
+        color: black;
+    }
+    #h2{
+        text-align: center;
+        display: none;
+        font-size: 6rem;
+    }
