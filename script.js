@@ -5,7 +5,7 @@ const Pass = document.getElementById('Pass') ;
 const Form = document.getElementById('form') ;
 const Text = document.getElementById('h2') ;
 const InfoBtn = document.getElementById('info') ;
-alert("Name:- Lucky                         "+"Password:- password123                         "+"Phone No.:- 9582121370                         "+"Student ID:- 20170016573                         ")
+alert("Name:- Lucky                                                   "+"Password:- password123                                                "+"Phone No.:- 9582121370                                                              "+"Student ID:- 20170016573                                               ")
 
 function myFunction() {
     if (!Name.value&& !ID.value&& !PhNo.value&& !Pass.value) {
